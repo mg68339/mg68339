@@ -19,7 +19,6 @@
 - 🗂️ **SQL Data Analysis Projects**  
   Worked on real-world datasets using joins, window functions, aggregations
 
-- 🌐 [Event Management Website](https://github.com/mg68339/Event-Management-System) *(Previous Project)*
 
 ---
 
@@ -45,7 +44,7 @@
 
 ### 📫 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
+<a href="https://www.linkedin.com/in/mohitgupta25/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
 <a href="mailto:mg68339@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/></a>
 <a href="https://instagram.com/moohhhiiittt"><img src="https://img.icons8.com/color/48/instagram-new.png" width="40"/></a>
 </p>
